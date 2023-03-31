@@ -1,0 +1,35 @@
+h1{
+    color: rgb(226, 33, 33);
+}
+h2{
+    color: rgb(226, 72, 26);
+    font-style: italic;
+}
+.common{
+    color: rgb(110, 18, 18);
+}
+ol{
+    line-height: 40px;
+}
+.delete{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.highlight{
+    background-color: yellow;
+    font-weight: bold;
+}
+#fourth{
+    text-decoration: underline;
+    font-style: italic;
+}
+ul{
+    letter-spacing: 4px;
+}
+a{
+    background-color: yellow;
+    color: rgb(110, 18, 18);
+    font-weight: bold;
+    text-decoration: none;
+    font-style: italic;
+}
